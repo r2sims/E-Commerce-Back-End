@@ -26,16 +26,11 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 Mock-Up
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
+# DEMO
+https://drive.google.com/file/d/1BlYU3UO_5IOEbcAzXtKdMHa768VcjXqY/view
 
-
-
-
-
-
-
-
-
-
+# Demo Gif
+<iframe src="https://drive.google.com/file/d/1BlYU3UO_5IOEbcAzXtKdMHa768VcjXqY/preview" width="640" height="480"></iframe>
 
 Getting Started
 You’ll need to use the MySQL2 and Sequelize packages to connect your Express.js API to a MySQL database and the dotenv package to use environment variables to store sensitive data.
